@@ -57,7 +57,7 @@ retina a diferença aparece no texto fino e na borda do recorte.
 | `01-mentoria-roxo@2x.png` | idem, 2400 × 720 |
 | `02-mentoria-verde-1200x360.png` | Mentoria — verde, no padrão do carrossel do orgânico |
 | `02-mentoria-verde@2x.png` | idem, 2400 × 720 |
-| `03-app-prostart-1200x360.png` | App ProStart — tudo liberado no mensal, R$ 167 |
+| `03-app-prostart-1200x360.png` | App ProStart — tudo liberado em todo plano; só o crédito muda |
 | `03-app-prostart@2x.png` | idem, 2400 × 720 |
 
 Os dois da mentoria são caminhos diferentes de propósito, pra rodar um contra o
